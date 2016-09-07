@@ -1,7 +1,7 @@
 {
-  "name": "angular2-demo",
+  "name": "angular2-base",
   "version": "0.0.1",
-  "description": "angular2-demo",
+  "description": "angular2-base",
   "main": "index.js",
   "scripts": {
     "start": "gulp",
